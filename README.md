@@ -1,1 +1,1 @@
-# qthermo-sample
+In this repository, we open-source sample codes that were developed by me to simulate the simulate the spatial energy distribution as a function of temperature in equilibrium quantum systems: [technical report](https://sriramgkn.github.io/reports/Report_ram_revision1.pdf)
